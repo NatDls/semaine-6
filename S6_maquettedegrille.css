@@ -1,0 +1,114 @@
+@font-face {
+   font-family: 'Tahoma';
+   src: url('Tahoma.eot');
+   src: url('Tahoma.eot?#iefix') format('embedded-opentype'),
+        url('Tahoma.woff') format('woff'),
+        url('Tahoma.otf') format('otf'),
+        url('Tahoma.ttf') format('truetype');
+}
+
+a {								
+	text-decoration: none;							
+	color: red;							
+}
+
+p {
+    color: beige;
+}
+
+div {
+    margin: 0px;
+}
+
+main {
+    max-height: 200px;
+}
+#header {
+    background-color: #37BBD2;
+    margin: auto;
+    display: block;
+    vertical-align: middle;
+}
+
+.container-fluid {
+    background-color: black;
+    margin: 0;    
+    display: block;
+}
+
+.colonne {
+    margin: auto;
+    background-color: aquamarine;
+    border: 2px solid red;
+    padding: 0px;
+}
+
+col-xs-12, col-sm-4, col-sm-6 {
+    margin: 0px;
+}
+
+.big-square1 {
+    width: 100%;
+    height: auto;
+    clear: both;
+    text-align: center;    
+}
+
+.square2 {
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+    margin: 0;
+    text-align: center; 
+}
+
+.square3 {
+    width: 100%;
+    display: inline-block;
+    margin: 0;
+    text-align: center; 
+}
+
+.square4 {
+    width: 100%;
+    display: inline-block;
+    margin: 0;
+    text-align: center; 
+}
+
+.square5 {
+    width: 100%;
+    display: inline-block;
+    margin: 0;
+    text-align: center; 
+}
+
+.square7 {
+    width: 100%;
+    display: inline-block;
+    margin: 0;
+    text-align: center; 
+}
+
+.square8 {
+    width: 100%;
+    display: inline-block;
+    margin: 0;
+    text-align: center; 
+}
+
+.square9 {
+    width: 100%;
+    display: inline-block;
+    margin: 0;
+    text-align: center; 
+}
+
+.square10 {
+    width: 100%;
+    display: inline-block;
+    margin: 0;
+    text-align: center; 
+}
+
+.rectangular {}
