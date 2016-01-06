@@ -5,6 +5,6 @@
 
 1. Faire une grille via bootstrap
 
-<img src="m-images/resultat.png" />
+![Maquette](NatDls.github.com/semaine-6/m-images/resultat.PNG)
 
 2. CV
